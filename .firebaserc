@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "basketballteam-app": {
+      "hosting": {
+        "BasketballTeam-App": [
+          "basketballteam-app"
+        ]
+      }
+    }
+  }
+}
